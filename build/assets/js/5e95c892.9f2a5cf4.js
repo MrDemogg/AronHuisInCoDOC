@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaron_huis_in_co_doc=self.webpackChunkaron_huis_in_co_doc||[]).push([[647],{8122:(e,s,r)=>{r.r(s),r.d(s,{default:()=>_});r(6540);var c=r(4164),n=r(1769),u=r(204),a=r(2831),o=r(1410),i=r(4848);function _(e){return(0,i.jsx)(n.e3,{className:(0,c.A)(u.G.wrapper.docsPages),children:(0,i.jsx)(o.A,{children:(0,a.v)(e.route.routes)})})}}}]);
