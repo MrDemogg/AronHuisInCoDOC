@@ -9,4 +9,4 @@
 **Выдаст "no" в случае, если миссии нет вообще** в списке у игрока  
 - player_name - имя игрока
 - mission - миссия
-- state - [состояние](config#states)  
+- state - [состояние](./config.mdx#states)  
