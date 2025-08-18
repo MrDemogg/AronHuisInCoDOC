@@ -26,6 +26,15 @@ const sidebars: SidebarsConfig = {
         'StoryKeep/Extra/NPC',
       ]
     }
+  ],
+  faithlySidebar: [
+    'Faithly/Homepage/welcome',
+    {
+      'Usage': [
+        'Faithly/Usage/commands',
+        'Faithly/Usage/interactive'
+      ]
+    }
   ]
 };
 
