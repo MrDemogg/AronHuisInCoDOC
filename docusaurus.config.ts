@@ -81,6 +81,12 @@ const config: Config = {
           label: 'StoryKeeper'
         },
         {
+          type: 'docSidebar',
+          sidebarId: 'faithlySidebar',
+          position: "left",
+          label: "Faithly",
+        },
+        {
           href: 'https://github.com/Aron-Huis-Industries-Corporated/aronhuisinco.github.io.git',
           label: 'GitHub',
           position: 'right',
